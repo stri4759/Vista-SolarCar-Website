@@ -4,7 +4,7 @@
 
 #solar-contact-section {
     padding: 0.5em 0 2em 0;
-    background-color: #202020;
+    background-color: #f7f7f7;
 }
 
 #solar-realworld {
@@ -30,14 +30,14 @@
 }
 
 #solar-race-section {
-    background-color: #202020;
+    background-color: #f7f7f7;
 }
 
 #solar-race-section #solar-race {
     padding-top: 0;
     padding-bottom: 0;
     z-index: 1;
-    background-color: #202020;
+    background-color: #f7f7f7;
     text-align: center;
 }
 
@@ -93,7 +93,7 @@
 }
 
 .solar-leader-section {
-    background-color: #202020;
+    background-color: #f7f7f7;
     padding-top: 1em;
     padding-bottom: 0;
 }
@@ -134,7 +134,7 @@
 }
 
 #solar-sponsors hr {
-    border: 1px solid #202020;
+    border: 1px solid #f7f7f7;
 }
 
 #solar-race-section .solar-title {
@@ -144,6 +144,7 @@
 #solar-about-section {
     padding-top: 1em;
     padding-bottom: 0;
+    
 }
 
 #solar-about-section .solar-title {
@@ -160,7 +161,7 @@
     transition: background-color 0.25s ease, box-shadow 0.25s ease;
     line-height: 1;
     background-color: rgb(212, 212, 212);
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     box-shadow: 0px 8px 5px grey;
     padding: 10px;
     border-radius: 2px;
@@ -284,3 +285,7 @@
         margin-bottom: 1.5%;
     }
 }
+.dark-mode {
+    background-color: #202020;
+    color: white;
+  }
