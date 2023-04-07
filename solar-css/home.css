@@ -160,11 +160,11 @@
 .solar-button {
     transition: background-color 0.25s ease, box-shadow 0.25s ease;
     line-height: 1;
-    background-color: rgb(212, 212, 212);
+    border:;
     color: rgb(0, 0, 0);
-    box-shadow: 0px 8px 5px grey;
+    box-shadow: 0px 12px 20px grey;
     padding: 10px;
-    border-radius: 2px;
+    border: 2px solid #0e0e0e;
     font-size: 2.5em;
 }
 
@@ -194,12 +194,19 @@
 
 #solar-join-link {
     margin: 0.6em auto;
-    color: rgb(234, 234, 234);
-    background-color: #202020;
+    transition: background-color 0.25s ease, box-shadow 0.25s ease;
+    line-height: 1;
+    border:;
+    color: rgb(0, 0, 0);
+    box-shadow: 0px 12px 5px grey;
+    padding: 10px;
+    border: 2px solid #0e0e0e;
+    font-size: 2.5em;
 }
 
 #solar-join-link:hover {
     background-color: #202020;
+    box-shadow: 0px 6px 5px grey;
 }
 
 #solar-donate-link {
@@ -289,3 +296,5 @@
     background-color: #202020;
     color: white;
   }
+
+  
