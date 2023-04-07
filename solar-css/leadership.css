@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+/* This CSS file contains all stylings that are applicable to leadership.html */
+
+#solar-profiles-section {
+    padding-top: 4em;
+    padding-bottom: 3em;
+}
+
+#solar-profiles .solar-name {
+    font-size: 2.5em;
+}
+
+#solar-profiles .solar-position {
+    font-size: 1.4em;
+}
+
+#solar-profiles .solar-major {
+    font-size: 0.98em;
+}
+
+#solar-profiles .solar-about {
+
+}
+
+#solar-profiles .solar-headshot {
+    width: 100%;
+    height: auto;
+}
+
+.solar-img-holder {
+    overflow: hidden;
+    position: relative;
+}
+
+.solar-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    text-align: center;
+    padding-top: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+    visibility: hidden;
+}
+.solar-img-holder:hover > .solar-overlay {
+    visibility: visible;
+}
+.solar-img-holder p {
+    font-family: 'Kodchasan', sans-serif;
+    text-align: center;
+    color: #FFF;
+    font-size: 1.1em;
+    margin-bottom: 0.8rem;
+}

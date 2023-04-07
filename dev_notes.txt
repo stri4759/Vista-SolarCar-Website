@@ -1,0 +1,66 @@
+HOME
+-> Cover
+-> Real World Engineering
+-> Race Summary
+-> About Us
+-> Leadership
+-> Sponsors
+-> Social Media
+
+THE RACE
+-> Schedule
+-> Route
+-> Graphics
+
+LEADERSHIP
+-> Profiles
+   -> Name
+   -> Position
+   -> Year/Major
+   -> Hometown
+   -> Other Orgs
+   -> Why Solar Car
+   -> Hobbies
+   -> Fun Fact
+
+SUB-TEAMS
+-> Mechanical
+-> Electrical
+-> Strategy
+-> Business Core
+-> Fundraising
+
+SCHEDULE
+-> Worthless lol
+
+SCSC BLOG
+-> Summary Posts
+   -> Link to full post with graphics and such
+
+OUTREACH
+-> Images with short descriptions
+
+SPONSORS
+-> Sponsorship pitch
+-> Sponsorship package PDF link (needs update)
+-> Sponsorship Tiers
+-> Sponsor logos w/ links
+
+DONATE
+-> Video
+-> Donation request text
+-> Donation graphic (needs update)
+-> Donor list
+-> Adopt-A-Cell Program / benefits
+
+VEHICLES
+-> Traveler 1
+   -> Graphics w/ descriptions
+
+JOIN
+-> Application Link
+-> FAQ
+
+CONTACT
+-> Social media links
+-> Mailing list

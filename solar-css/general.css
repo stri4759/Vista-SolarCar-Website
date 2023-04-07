@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+/* This CSS file contains all stylings that are generally applicable to all pages. */
+
+.solar-navbar {
+  top: 0;
+  padding: 0;
+  width: 100%;
+  position: fixed;
+  text-align: center;
+  background-color: #303030;
+}
+
+.solar-navbar .container {
+  margin: 0 auto;
+  width: 100%;
+  padding: 0;
+  text-align: center;
+}
+
+.solar-navbar .container ul {
+  margin: 0 auto;
+}
+
+.solar-navbar .container a {
+  padding-top: 0;
+}
+
+.solar-navbar img {
+  width: auto;
+  height: 50px;
+  padding-bottom: 5px;
+}
+
+.ftco-navbar-light .navbar-nav > .nav-item > .solar-link {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.ftco-navbar-light.scrolled {
+  background:#E0E0E0 !important;
+}
+
+.clearfloat {
+  clear: both;
+}
+
+#solar-footer {
+  padding: 1.8em 0 0 0;
+}
+
+#solar-footer .row {
+  margin-bottom: 1em !important;
+}
