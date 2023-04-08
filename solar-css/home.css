@@ -160,17 +160,17 @@
 .solar-button {
     transition: background-color 0.25s ease, box-shadow 0.25s ease;
     line-height: 1;
-    border:;
+    
     color: rgb(0, 0, 0);
-    box-shadow: 0px 12px 20px grey;
+    
     padding: 10px;
-    border: 2px solid #0e0e0e;
-    font-size: 2.5em;
+    border: 2px solid rgb(88, 88, 88);
+    font-size: 2em;
 }
 
 .solar-button:hover {
-    background-color: #202020;
-    box-shadow: 0px 6px 5px grey;
+    background-color: rgb(88, 88, 88);
+    
 }
 
 #solar-sponsor-link {
@@ -183,12 +183,12 @@
 }
 
 #solar-contact-section .solar-button-holder {
-    width: 30em;
+    width: 15em;
     margin: 0 auto;
 }
 
 #solar-contact-section .solar-button {
-    width: 12em;
+    width: 7em;
     margin: 0.6em auto;
 }
 
@@ -196,17 +196,17 @@
     margin: 0.6em auto;
     transition: background-color 0.25s ease, box-shadow 0.25s ease;
     line-height: 1;
-    border:;
+    
     color: rgb(0, 0, 0);
-    box-shadow: 0px 12px 5px grey;
+    
     padding: 10px;
-    border: 2px solid #0e0e0e;
-    font-size: 2.5em;
+    border: 2px solid rgb(88, 88, 88);
+    font-size: 2em;
 }
 
 #solar-join-link:hover {
-    background-color: #202020;
-    box-shadow: 0px 6px 5px grey;
+    background-color: rgb(88, 88, 88);
+    
 }
 
 #solar-donate-link {
@@ -248,7 +248,7 @@
 #solar-contact-section #solar-email {
     margin-top: 1em;
     text-align: center;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 #solar-contact-section #solar-email img {
@@ -256,7 +256,7 @@
     height: auto;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 476px) {
     #solar-contact-section .solar-button {
         width: 6em;
     }
@@ -272,7 +272,7 @@
     }
 
     #solar-contact-section #solar-email {
-        font-size: 1.5em;
+        font-size: 1em;
     }
 
     #solar-race-section iframe {
