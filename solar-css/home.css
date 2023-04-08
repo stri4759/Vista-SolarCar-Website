@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 /* This CSS file contains all stylings that are applicable to home.html */
-
+html { scroll-behavior: smooth;}
 #solar-contact-section {
     padding: 0.5em 0 2em 0;
     background-color: #f7f7f7;
